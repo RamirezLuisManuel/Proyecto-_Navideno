@@ -18,5 +18,6 @@ A lo largo de este curso aprendí muchas cosas nuevas y reforcé muchas otras co
 
  ## Coevaluación de mi compañero
 De manera general mi compañero, a sido un gran compañero de trabajo ya que nos comunicamos muy bien y trabajamos bien en equipo, pero aun así hay cosas que se podrían mejorar, ya que en ocasiones, ambos podemos estar en desacuerdo en alguno aspectos, y a mi compañero le gusta que se haga lo que él dice, además, de que si es bueno para la escuela, es decir que si es inteligente y dedicado, a veces carga mucho el trabajo a los demás, o en este caso a mi, con esto no me refiero a que el no haya hecho nada, al contrario el trabajo muy duro, pero creo que en algunas ocasiones, a mi en lo personal me ocurrieron situaciones que no tenia previstas y  me hubiera gustado recibir un mayor apoyo con mi compañero para poder solucionar esos asuntos ya que si me tomaron bastante tiempo, aun asi estoy satisfecho con el trabajo de mi compañero.
+
 En cuanto a puntualidad responsabilidad y demás cosas mi compañero, siempre mostro compromiso con el proyecto qya que por lo regular si cumplía con lo decía que iba hacer. 
 
