@@ -1,10 +1,18 @@
 # IoT_instrumento_de_evaluacion_unidad_3
 # Proyecto final
 ## Personaje: Lock
+imagen aqui...
 
-## Prorotipo.
-
-https://drive.google.com/file/d/1qbYqf8R_A-7fCYCmoLLtiiUeB3Xnd_zn/view?usp=sharing
+### Descripción
+#### Nombre de personaje: Lock.
+#### Atuendo: Pantalón, camisa roja y mascara de diablito.
+#### Escenario: Bañera decorada con un poco de escarcha y leds.
+#### Funcionalidad:
+El sensor ultrasónico, Acciona un patrón de movimientos de los servos así como una melodía en el zumbador, esto ocurre cuando un individuo se coloca a un metro o menos de distancia del personaje.
+El sensor Pir, Acciona 2 leds que se encuentran en las manos del personaje.
+Los leds que decoran la bañera tienen un patrón donde encienden y apagan uno tras otro independiente de la demás funcionalidad.
+El motor a pasos gira la cabeza un aproximado de 180 grados, esta acción se ejecuta todo el tiempo independientemente de las demás funciones.
+#### Video de funcionalidad.
 
 
 ## [Codigo fuente.](https://github.com/RamirezLuisManuel/Proyecto-_Navideno/tree/main/Codigo)
