@@ -48,14 +48,11 @@ El motor a pasos gira la cabeza un aproximado de 180 grados, esta acción se eje
 |servo|Control de servo|
 |hcsr04|Control del sensor|
 
-
-
-#### Video de funcionalidad.
-#### [Codigo fuente.](https://github.com/RamirezLuisManuel/Proyecto-_Navideno/tree/main/Codigo)
-
 ### Bocetaje en dibujo.
 <img width="600" src="https://github.com/RamirezLuisManuel/Proyecto-_Navideno/blob/main/Evidencias/Fotos%20y%20videos%20de%20Elaboracion/boceto.jpg?raw=true"/><br>
 
+#### Video de funcionalidad.
+#### [Codigo fuente.](https://github.com/RamirezLuisManuel/Proyecto-_Navideno/tree/main/Codigo)
 
 ## Arquitectura.
 Por la cantidad de componentes que implementamos, una sola tarjeta ESP32 no soportaba así que dividimos los componentes entre dos ESP32.
