@@ -18,13 +18,15 @@ En la primer ESP32, conectamos un sensor HSCR-04, 2 servomotores y un zumbador, 
 El sensor va conectado a los pines 15(trigger), 4(echo) y para corriente va a negativo y 3V
 El zumbador va conectado al pin 19 y para corriente va a negativo y 3V.
 Los servomotores van a al pin 5, y 18 así como también a negativo y 3V.
-<img width="800" src="https://github.com/RamirezLuisManuel/Proyecto-_Navideno/blob/main/Arquitectura_tarjeta_1.png?raw=true"/><br>
+
+<img width="500" src="https://github.com/RamirezLuisManuel/Proyecto-_Navideno/blob/main/Arquitectura_tarjeta_1.png?raw=true"/><br>
 ### Segunda tarjeta:
 En la segunda ESP32, conectamos un sensor Pir, un motor a pasos y 6 leds.
 El sensor Pir va al pin 16, así como a negativo y 3V.
 Los leds van a los pines 12, 33, 14, 26, 32, 25.
-El motor va a los pines IN1: 5, IN2: 18, IN3: 19, IN4: 21 además va a negativo y 5V  
-<img width="800" src="https://github.com/RamirezLuisManuel/Proyecto-_Navideno/blob/main/Arquitectura_tarjeta_2.png?raw=true"/><br>
+El motor va a los pines IN1: 5, IN2: 18, IN3: 19, IN4: 21 además va a negativo y 5V.
+
+<img width="500" src="https://github.com/RamirezLuisManuel/Proyecto-_Navideno/blob/main/Arquitectura_tarjeta_2.png?raw=true"/><br>
 
 ## Curso JavaScript NetAcad.
 
