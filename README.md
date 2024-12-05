@@ -5,8 +5,9 @@
 
 ## Integrantes
 ### Grupo: GDS0643
-|Nombres|Apellido Materno| Apellido Paterno|
-|Cesar Abraham|López |Aguilar|
+|Nombres|Apellido Materno|Apellido Paterno|
+|Cesar Abraham|López|Aguilar|
+|Cesar Abraham|López|Aguilar|
 
 
 ### Descripción
