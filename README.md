@@ -80,6 +80,7 @@ El motor va a los pines IN1: 5, IN2: 18, IN3: 19, IN4: 21 además va a negativo 
 <img width="500" src="https://github.com/RamirezLuisManuel/Proyecto-_Navideno/blob/main/Evidencias/Fotos%20y%20videos%20de%20Elaboracion/Captura%20de%20pantalla%202024-12-05%20020453.png?raw=true"/><br>
 <img width="500" src="https://github.com/RamirezLuisManuel/Proyecto-_Navideno/blob/main/Evidencias/Fotos%20y%20videos%20de%20Elaboracion/1733369968862.jpeg?raw=true"/><br>
 <img width="500" src="https://github.com/RamirezLuisManuel/Proyecto-_Navideno/blob/main/Evidencias/Fotos%20y%20videos%20de%20Elaboracion/Captura%20de%20pantalla%202024-12-05%20020519.png?raw=true"/><br>
+
 ### [Más videos y fotos](https://github.com/RamirezLuisManuel/Proyecto-_Navideno/tree/main/Evidencias)
 
 ## [Codigo fuente.](https://github.com/RamirezLuisManuel/Proyecto-_Navideno/tree/main/Codigo)
