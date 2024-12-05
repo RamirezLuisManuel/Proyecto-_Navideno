@@ -5,9 +5,8 @@
 
 ## Integrantes
 ### Grupo: GDS0643
-|Nombre|Apellido Materno| Apellido Paterno|
-|--|--|--|
-|Thonny|4.1.6||
+|Nombres|Apellido Materno| Apellido Paterno|
+|Cesar Abraham|López |Aguilar|
 
 
 ### Descripción
