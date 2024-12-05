@@ -10,10 +10,27 @@ https://drive.google.com/file/d/1qbYqf8R_A-7fCYCmoLLtiiUeB3Xnd_zn/view?usp=shari
 ## [Codigo fuente.](https://github.com/RamirezLuisManuel/Proyecto-_Navideno/tree/main/Codigo)
 no se que hago pero me veo bien haciendolo... I love Tachito....
 
-## [Flujo de Node-red.](https://github.com/RamirezLuisManuel/Proyecto-_Navideno/tree/main/Flujo%20Node_Red).
+## Arquitectura.
+Por la cantidad de componentes que implementamos, una sola tarjeta ESP32 no soportaba así que dividimos los componentes entre dos ESP32.
+
+### Primer tarjeta:
+En la primer ESP32, conectamos un sensor HSCR-04, 2 servomotores y un zumbador, inicialmente esto no seria así, pero por falta de potencia tuvimos que separar los servomotores del motor a pasos.
+El sensor va conectado a los pines 15(trigger), 4(echo) y para corriente va a negativo y 3V
+El zumbador va conectado al pin 19 y para corriente va a negativo y 3V.
+Los servomotores van a al pin 5, y 18 así como también a negativo y 3V.
+
+### Segunda tarjeta:
+En la segunda ESP32, conectamos un sensor Pir, un motor a pasos y 6 leds.
+El sensor Pir va al pin 16, así como a negativo y 3V.
+Los leds van a los pines 12, 33, 14, 26, 32, 25.
+El motor va a los pines IN1: 5, IN2: 18, IN3: 19, IN4: 21 además va a negativo y 5V  
+
+## Curso JavaScript NetAcad.
+
+## [Flujo de Node-red.](https://github.com/RamirezLuisManuel/Proyecto-_Navideno/tree/main/Flujo%20Node_Red)
 Tal cual hermano...
   
-## [Curso JavaScript NetAcad.](https://github.com/RamirezLuisManuel/Proyecto-_Navideno/tree/main/Curso%20JavaScript%20NetAcad).
+## [Curso JavaScript NetAcad.](https://github.com/RamirezLuisManuel/Proyecto-_Navideno/tree/main/Curso%20JavaScript%20NetAcad)
 A lo largo de este curso, he experimentado un crecimiento exponencial en mis habilidades de programación con JavaScript. Los ejercicios realizados me han ayudado a conoer los conceptos teóricos, y también desarrollar un pensamiento lógico y algorítmico más sólido. Estoy seguro de que los conocimientos adquiridos me brindarán una ventaja competitiva en el ámbito laboral, permitiéndome abordar desafíos complejos y proponer soluciones innovadoras.
 
 ## Coevaluación de mi compañero.
