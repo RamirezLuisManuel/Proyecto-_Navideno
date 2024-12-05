@@ -10,7 +10,6 @@
 |Cesar Abraham|López|Aguilar|
 |Cesar Abraham|López|Aguilar|
 
-
 ## Descripción
 ### Atuendo: 
 Pantalón, camisa roja y mascara de diablito
@@ -51,8 +50,7 @@ El motor a pasos gira la cabeza un aproximado de 180 grados, esta acción se eje
 ### Bocetaje en dibujo.
 <img width="600" src="https://github.com/RamirezLuisManuel/Proyecto-_Navideno/blob/main/Evidencias/Fotos%20y%20videos%20de%20Elaboracion/boceto.jpg?raw=true"/><br>
 
-#### Video de funcionalidad.
-#### [Codigo fuente.](https://github.com/RamirezLuisManuel/Proyecto-_Navideno/tree/main/Codigo)
+## Comunicación
 
 ## Arquitectura.
 Por la cantidad de componentes que implementamos, una sola tarjeta ESP32 no soportaba así que dividimos los componentes entre dos ESP32.
@@ -71,6 +69,9 @@ Los leds van a los pines 12, 33, 14, 26, 32, 25.
 El motor va a los pines IN1: 5, IN2: 18, IN3: 19, IN4: 21 además va a negativo y 5V.
 
 <img width="500" src="https://github.com/RamirezLuisManuel/Proyecto-_Navideno/blob/main/Arquitectura_tarjeta_2.png?raw=true"/><br>
+
+#### Video de funcionalidad.
+#### [Codigo fuente.](https://github.com/RamirezLuisManuel/Proyecto-_Navideno/tree/main/Codigo)
 
 
 ## [Flujo de Node-red.](https://github.com/RamirezLuisManuel/Proyecto-_Navideno/tree/main/Flujo%20Node_Red)
