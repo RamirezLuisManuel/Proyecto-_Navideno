@@ -47,7 +47,7 @@ El motor a pasos gira la cabeza un aproximado de 180 grados, esta acción se eje
 |servo|Control de servo|
 |hcsr04|Control del sensor|
 
-### Bocetaje en dibujo.
+## Bocetaje en dibujo.
 <img width="600" src="https://github.com/RamirezLuisManuel/Proyecto-_Navideno/blob/main/Evidencias/Fotos%20y%20videos%20de%20Elaboracion/boceto.jpg?raw=true"/><br>
 
 ## Comunicación
@@ -70,9 +70,14 @@ El motor va a los pines IN1: 5, IN2: 18, IN3: 19, IN4: 21 además va a negativo 
 
 <img width="500" src="https://github.com/RamirezLuisManuel/Proyecto-_Navideno/blob/main/Arquitectura_tarjeta_2.png?raw=true"/><br>
 
-#### Video de funcionalidad.
-#### [Codigo fuente.](https://github.com/RamirezLuisManuel/Proyecto-_Navideno/tree/main/Codigo)
+## Videos de funcionalidad
 
+## Fotos de elaboracion
+
+### Más videos y fotos
+
+## [Codigo fuente.](https://github.com/RamirezLuisManuel/Proyecto-_Navideno/tree/main/Codigo)
+Este está dividido en dos placas debido a la poca potencia que genera una sola placa.
 
 ## [Flujo de Node-red.](https://github.com/RamirezLuisManuel/Proyecto-_Navideno/tree/main/Flujo%20Node_Red)
 Consta de dos botones switch en node-red , uno para accionar el sensor ultrasónico, y el otro botón para accionar el sensor Pir.
