@@ -1,7 +1,7 @@
 # Personaje Navideño
 ## Nombre del Personaje
 ### Lock
-<img width="300" src="https://github.com/RamirezLuisManuel/Proyecto-_Navideno/blob/main/Evidencias/Fotos%20y%20videos%20de%20Funcionamiento/Lock_1.png?raw=true"/><br>
+<img width="300" src="https://github.com/RamirezLuisManuel/Proyecto-_Navideno/blob/main/Evidencias/Fotos%20y%20videos%20de%20Elaboracion/Lock_1.png?raw=true"/><br>
 
 ## Integrantes
 #### Grupo: GDS0643
