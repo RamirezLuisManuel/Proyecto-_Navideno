@@ -5,9 +5,9 @@
 
 ## Integrantes
 ### Grupo: GDS0643
-|Nombre|Apellido Materno| Apellido Paterno
-|--|--|--|--|
-|Thonny|4.1.6|
+|Nombre|Apellido Materno| Apellido Paterno|
+|--|--|--|
+|Thonny|4.1.6||
 
 
 ### Descripción
