@@ -5,7 +5,7 @@ imagen aqui...
 ### Descripción
 #### Nombre de personaje: Lock.
 #### Atuendo: Pantalón, camisa roja y mascara de diablito.
-#### Escenario: Bañera decorada con un poco de escarcha y leds.
+#### Escenario: Bañera decorada escarcha y leds.
 #### Funcionalidad:
 El sensor ultrasónico, Acciona un patrón de movimientos de los servos así como una melodía en el zumbador, esto ocurre cuando un individuo se coloca a un metro o menos de distancia del personaje.
 El sensor Pir, Acciona 2 leds que se encuentran en las manos del personaje.
