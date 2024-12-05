@@ -7,7 +7,7 @@
 https://drive.google.com/file/d/1qbYqf8R_A-7fCYCmoLLtiiUeB3Xnd_zn/view?usp=sharing
 
 
-## [Codigo fuente.](https://github.com/RamirezLuisManuel/Proyecto-_Navideno/tree/main/Codigo/Codigo%20fuente).
+## [Codigo fuente.](https://github.com/RamirezLuisManuel/Proyecto-_Navideno/tree/main/Codigo).
 no se que hago pero me veo bien haciendolo... I love Tachito....
 
 ## [Flujo de Node-red.](https://github.com/RamirezLuisManuel/Proyecto-_Navideno/tree/main/Flujo%20Node_Red).
