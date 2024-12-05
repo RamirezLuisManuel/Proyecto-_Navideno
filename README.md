@@ -1,6 +1,6 @@
 # Proyecto final
 ## Personaje: Lock
-imagen aqui...
+<img width="600" src="https://github.com/RamirezLuisManuel/Proyecto-_Navideno/blob/main/Evidencias/Fotos%20y%20videos%20de%20Funcionamiento/Lock_1.png?raw=true"/><br>
 
 ### Descripción
 #### Nombre de personaje: Lock.
@@ -12,10 +12,11 @@ El sensor Pir, acciona 2 leds que se encuentran en las manos del personaje.
 Los leds que decoran la bañera tienen un patrón donde encienden y apagan uno tras otro independiente de la demás funcionalidad.
 El motor a pasos gira la cabeza un aproximado de 180 grados, esta acción se ejecuta todo el tiempo independientemente de las demás funciones.
 #### Video de funcionalidad.
+#### [Codigo fuente.](https://github.com/RamirezLuisManuel/Proyecto-_Navideno/tree/main/Codigo)
 
+### Bocetaje en dibujo.
+<img width="600" src="https://github.com/RamirezLuisManuel/Proyecto-_Navideno/blob/main/Evidencias/Fotos%20y%20videos%20de%20Elaboracion/boceto.jpg?raw=true"/><br>
 
-## [Codigo fuente.](https://github.com/RamirezLuisManuel/Proyecto-_Navideno/tree/main/Codigo)
-no se que hago pero me veo bien haciendolo... I love Tachito....
 
 ## Arquitectura.
 Por la cantidad de componentes que implementamos, una sola tarjeta ESP32 no soportaba así que dividimos los componentes entre dos ESP32.
@@ -34,6 +35,7 @@ Los leds van a los pines 12, 33, 14, 26, 32, 25.
 El motor va a los pines IN1: 5, IN2: 18, IN3: 19, IN4: 21 además va a negativo y 5V.
 
 <img width="500" src="https://github.com/RamirezLuisManuel/Proyecto-_Navideno/blob/main/Arquitectura_tarjeta_2.png?raw=true"/><br>
+
 
 ## [Flujo de Node-red.](https://github.com/RamirezLuisManuel/Proyecto-_Navideno/tree/main/Flujo%20Node_Red)
 Consta de dos botones switch en node-red , uno para accionar el sensor ultrasónico, y el otro botón para accionar el sensor Pir.
