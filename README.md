@@ -43,7 +43,7 @@ El motor a pasos gira la cabeza un aproximado de 180 grados, esta acción se eje
 |Thonny|4.1.6|Entorno de Desarrollo Integrado (IDE)|
 |Node-Red|4.0.5|Sofware para comunicación|
 
-|Libreria|Versión|
+|Libreria|Tipo de libreria|
 |--|--|
 |servo|Control de servo|
 |hcsr04|Control del sensor|
