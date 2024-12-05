@@ -1,6 +1,7 @@
-# Proyecto final
-## Personaje: Lock
-<img width="600" src="https://github.com/RamirezLuisManuel/Proyecto-_Navideno/blob/main/Evidencias/Fotos%20y%20videos%20de%20Funcionamiento/Lock_1.png?raw=true"/><br>
+# Personaje Navideño
+## Nombre del Personaje
+### Lock
+<img width="300" src="https://github.com/RamirezLuisManuel/Proyecto-_Navideno/blob/main/Evidencias/Fotos%20y%20videos%20de%20Funcionamiento/Lock_1.png?raw=true"/><br>
 
 ### Descripción
 #### Nombre de personaje: Lock
