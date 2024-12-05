@@ -39,7 +39,9 @@ El motor va a los pines IN1: 5, IN2: 18, IN3: 19, IN4: 21 además va a negativo 
 
 ## [Flujo de Node-red.](https://github.com/RamirezLuisManuel/Proyecto-_Navideno/tree/main/Flujo%20Node_Red)
 Consta de dos botones switch en node-red , uno para accionar el sensor ultrasónico, y el otro botón para accionar el sensor Pir.
+
 <img width="500" src="https://github.com/RamirezLuisManuel/Proyecto-_Navideno/blob/main/Flujo_node.png?raw=true"/><br>
+
 <img width="500" src="https://github.com/RamirezLuisManuel/Proyecto-_Navideno/blob/main/Botones_node.png?raw=true"/><br>
   
 ## [Curso JavaScript NetAcad.](https://github.com/RamirezLuisManuel/Proyecto-_Navideno/tree/main/Curso%20JavaScript%20NetAcad)
