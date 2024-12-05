@@ -3,14 +3,29 @@
 <img width="600" src="https://github.com/RamirezLuisManuel/Proyecto-_Navideno/blob/main/Evidencias/Fotos%20y%20videos%20de%20Funcionamiento/Lock_1.png?raw=true"/><br>
 
 ### Descripción
-#### Nombre de personaje: Lock.
-#### Atuendo: Pantalón, camisa roja y mascara de diablito.
-#### Escenario: Bañera decorada con escarcha y leds.
+#### Nombre de personaje: Lock
+#### Atuendo: Pantalón, camisa roja y mascara de diablito
+#### Escenario: Bañera decorada con escarcha y leds
 #### Funcionalidad:
 El sensor ultrasónico, acciona un patrón de movimientos de los servos así como una melodía en el zumbador, esto ocurre cuando un individuo se coloca a un metro o menos de distancia del personaje.
 El sensor Pir, acciona 2 leds que se encuentran en las manos del personaje.
 Los leds que decoran la bañera tienen un patrón donde encienden y apagan uno tras otro independiente de la demás funcionalidad.
 El motor a pasos gira la cabeza un aproximado de 180 grados, esta acción se ejecuta todo el tiempo independientemente de las demás funciones.
+
+## Materiales utilizados
+|Software|Versión|
+|--|--|--|--|
+|Thonny|4.1.6|
+
+
+## Software a utilizar
+|Software|Versión|
+|--|--|
+|Thonny|4.1.6|
+|Node-Red|4.0.5|
+
+
+
 #### Video de funcionalidad.
 #### [Codigo fuente.](https://github.com/RamirezLuisManuel/Proyecto-_Navideno/tree/main/Codigo)
 
