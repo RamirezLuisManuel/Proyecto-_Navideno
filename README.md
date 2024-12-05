@@ -71,6 +71,8 @@ El motor va a los pines IN1: 5, IN2: 18, IN3: 19, IN4: 21 además va a negativo 
 <img width="500" src="https://github.com/RamirezLuisManuel/Proyecto-_Navideno/blob/main/Arquitectura_tarjeta_2.png?raw=true"/><br>
 
 ## Videos de funcionalidad
+### Video Promocional: https://vm.tiktok.com/ZMkeDurXG/
+### Video explicativo: ...
 
 ## Fotos de elaboracion
 
