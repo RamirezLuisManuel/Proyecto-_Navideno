@@ -1,4 +1,3 @@
-# IoT_instrumento_de_evaluacion_unidad_3
 # Proyecto final
 ## Personaje: Lock
 imagen aqui...
