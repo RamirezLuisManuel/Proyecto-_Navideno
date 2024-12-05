@@ -4,34 +4,49 @@
 <img width="300" src="https://github.com/RamirezLuisManuel/Proyecto-_Navideno/blob/main/Evidencias/Fotos%20y%20videos%20de%20Funcionamiento/Lock_1.png?raw=true"/><br>
 
 ## Integrantes
-### Grupo: GDS0643
+#### Grupo: GDS0643
 |Nombres|Apellido Materno|Apellido Paterno|
 |--|--|--|
 |Cesar Abraham|López|Aguilar|
 |Cesar Abraham|López|Aguilar|
 
 
-### Descripción
-#### Nombre de personaje: Lock
-#### Atuendo: Pantalón, camisa roja y mascara de diablito
-#### Escenario: Bañera decorada con escarcha y leds
-#### Funcionalidad:
+## Descripción
+### Atuendo: 
+Pantalón, camisa roja y mascara de diablito
+### Escenario: 
+Bañera decorada con escarcha y leds
+### Funcionalidad:
 El sensor ultrasónico, acciona un patrón de movimientos de los servos así como una melodía en el zumbador, esto ocurre cuando un individuo se coloca a un metro o menos de distancia del personaje.
 El sensor Pir, acciona 2 leds que se encuentran en las manos del personaje.
 Los leds que decoran la bañera tienen un patrón donde encienden y apagan uno tras otro independiente de la demás funcionalidad.
 El motor a pasos gira la cabeza un aproximado de 180 grados, esta acción se ejecuta todo el tiempo independientemente de las demás funciones.
 
 ## Materiales utilizados
-|Software|Versión|
+|Material|Descripción|Cantidad|Precio|
 |--|--|--|--|
-|Thonny|4.1.6|
-
+|Cables Dupont| Cables para conexión de prototipo de prueba|120|$60|
+|Servomotor| Servomotor para crear y controlar movimiento|2|$60|
+|Buzzer pasivo|Emisor de sonido|1|$30|
+|Sensor Ultrasónico HC-SR04|Mide la proximidad de los individuos|1|$25|
+|Sensor Infrarrojo Pir Hcsr501|Detecta el movimiento cercano|1|$50|
+|Motor Stepper|Motor de pasos para movimiento más preciso que el servo|1|$100|
+|Protoboard de 800 puntos|Para conexión de todos los componentes a la placa|1|$120|
+|Protoboard de 400 puntos|Para conexión de todos los componentes a la placa|1|$100|
+|Resistencias|Para conectar a los leds|6|$3|
+|Leds|Decoración del personaje|6|$3|
+|Otros materiales |Materiales de decoración para el personaje|8|$100|
 
 ## Software a utilizar
-|Software|Versión|
+|Software|Versión|Tipo de software|
+|--|--|--|
+|Thonny|4.1.6|Entorno de Desarrollo Integrado (IDE)|
+|Node-Red|4.0.5|Sofware para comunicación|
+
+|Libreria|Versión|
 |--|--|
-|Thonny|4.1.6|
-|Node-Red|4.0.5|
+|servo|Control de servo|
+|hcsr04|Control del sensor|
 
 
 
