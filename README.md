@@ -8,7 +8,7 @@
 |Nombres|Apellido Materno|Apellido Paterno|
 |--|--|--|
 |Cesar Abraham|López|Aguilar|
-|Cesar Abraham|López|Aguilar|
+|Luis Manuel|Ramírez|Ramírez|
 
 ## Descripción
 ### Atuendo: 
