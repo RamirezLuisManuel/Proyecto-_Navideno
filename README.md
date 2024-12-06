@@ -80,7 +80,7 @@ El motor va a los pines IN1: 5, IN2: 18, IN3: 19, IN4: 21 además va a negativo 
 
 ## Videos de funcionalidad
 ### Video Promocional: https://vm.tiktok.com/ZMkeDurXG/
-### Video explicativo: ...
+### Video explicativo: https://www.tiktok.com/@fonder5/video/7445127385587977528?is_from_webapp=1&sender_device=pc&web_id=7396021131999102469
 
 ## Fotos de elaboracion
 <img width="500" src="https://github.com/RamirezLuisManuel/Proyecto-_Navideno/blob/main/Evidencias/Fotos%20y%20videos%20de%20Elaboracion/1733369968873.jpg?raw=true?raw=true"/><br>
