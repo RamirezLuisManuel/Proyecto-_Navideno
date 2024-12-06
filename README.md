@@ -7,7 +7,7 @@
 #### Grupo: GDS0643
 |Nombres|Apellido Materno|Apellido Paterno|Número de control|
 |--|--|--|--|
-|Cesar Abraham|López|Aguilar|nose
+|Cesar Abraham|López|Aguilar|1223100412|
 |Luis Manuel|Ramírez|Ramírez|1223100431|
 
 ## Descripción
