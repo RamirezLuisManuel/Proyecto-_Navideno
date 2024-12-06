@@ -53,12 +53,13 @@ El motor a pasos gira la cabeza un aproximado de 180 grados, esta acción se eje
 ## Comunicación
 La comunicación es parte fundamental de este prototipo, así que por medio del protocolo de comunicación de MQTT se controlan los sensores del personaje, tendiendo un total de 2 botones switch en node-red, uno para encender o apagar el funcionamiento del sensor ultrasónico HCSR-04, y el otro para encender o apagar el funcionamiento del sensor Pir HCSR501.
 
-## [Flujo de Node-red.](https://github.com/RamirezLuisManuel/Proyecto-_Navideno/tree/main/Flujo%20Node_Red)
+### [Flujo de Node-red.](https://github.com/RamirezLuisManuel/Proyecto-_Navideno/tree/main/Flujo%20Node_Red)
 Consta de dos botones switch en node-red , uno para accionar el sensor ultrasónico, y el otro botón para accionar el sensor Pir.
 
 <img width="500" src="https://github.com/RamirezLuisManuel/Proyecto-_Navideno/blob/main/Flujo_node.png?raw=true"/><br>
 
 <img width="500" src="https://github.com/RamirezLuisManuel/Proyecto-_Navideno/blob/main/Botones_node.png?raw=true"/><br>
+
 ## Arquitectura.
 Por la cantidad de componentes que implementamos, una sola tarjeta ESP32 no soportaba así que dividimos los componentes entre dos ESP32.
 
@@ -88,7 +89,7 @@ El motor va a los pines IN1: 5, IN2: 18, IN3: 19, IN4: 21 además va a negativo 
 <img width="500" src="https://github.com/RamirezLuisManuel/Proyecto-_Navideno/blob/main/Evidencias/Fotos%20y%20videos%20de%20Elaboracion/1733369968862.jpeg?raw=true"/><br>
 <img width="500" src="https://github.com/RamirezLuisManuel/Proyecto-_Navideno/blob/main/Evidencias/Fotos%20y%20videos%20de%20Elaboracion/Captura%20de%20pantalla%202024-12-05%20020519.png?raw=true"/><br>
 
-### [Más videos y fotos](https://github.com/RamirezLuisManuel/Proyecto-_Navideno/tree/main/Evidencias)
+### [Más fotos](https://github.com/RamirezLuisManuel/Proyecto-_Navideno/tree/main/Evidencias)
 
 ## [Codigo fuente.](https://github.com/RamirezLuisManuel/Proyecto-_Navideno/tree/main/Codigo)
 Este está dividido en dos placas debido a la poca potencia que genera una sola placa.
